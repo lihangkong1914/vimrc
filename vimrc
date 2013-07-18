@@ -70,6 +70,7 @@ Bundle 'kien/ctrlp.vim'
 Bundle 'msanders/snipmate.vim'
 Bundle 'vim-scripts/taglist.vim'
 Bundle 'Lokaltog/vim-powerline'
+Bundle 'Townk/vim-autoclose'
 
 filetype plugin indent on	" required!
 
